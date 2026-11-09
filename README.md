@@ -2,48 +2,45 @@
   <img src="banner.gif" alt="Animated red data stream banner" width="1200" />
 </p>
 
-Hi there 👋 I'm Mehdi, a software engineering student building campus-focused products and tinkering with distributed systems.
+I'm Mehdi, a software engineering student and builder. I work across desktop applications, web platforms, AI tooling, and low-level systems — whatever the problem calls for.
 
-## 🛠️ Tech stack
+## Tech stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,postgres,tailwind,vite,docker,linux,c,git,github,html,css,js&perline=9" alt="Tech stack icons" />
 </p>
 
-## 🚀 Featured projects
+## Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
-| **[SkillSwap Campus](https://github.com/MehdiCherkane/skillswap-a)** | Campus skill-exchange platform: publish offers, reserve slots with credits, meet, confirm — two confirmations settle exactly one transfer in an append-only ledger. | Java 21, Spring Boot 3.5, PostgreSQL 16, OpenAPI 3.1, React 19, TanStack Query, Tailwind |
-| **[dsa-visualizer](https://github.com/MehdiCherkane/dsa-visualizer)** | Data structures & algorithms visualizer with course chapters. | HTML, JavaScript |
+| [NEUON](https://github.com/MehdiCherkane/NEUON-Linux-AI-Assistant-With-JAVA) | Linux AI assistant with an agent loop, tool use (shell, code, file, email, memory), voice I/O, hardware monitor, and a cyberpunk UI. | Java 21, JavaFX, Groq |
+| [dsa-visualizer](https://github.com/MehdiCherkane/dsa-visualizer) | Fully offline French visualizer for data structures in C — stacks, queues, linked lists, binary trees — with step-by-step C execution and animations. | C, TypeScript, HTML/CSS |
+| SkillSwap Campus | Campus skill-exchange platform: publish offers, reserve slots with credits, meet, confirm — two confirmations settle exactly one transfer in an append-only ledger. (private) | Java 21, Spring Boot, PostgreSQL, React |
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehdiCherkane&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiCherkane&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehdiCherkane&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiCherkane&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-## 🤝 Let's connect
+## Connect
 
 <p align="left">
   <a href="mailto:mehdicherkane538@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/mehdicherkane">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MehdiCherkane">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Thanks for stopping by ⭐</i>
+  <i>Thanks for stopping by.</i>
 </p>
