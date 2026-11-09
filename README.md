@@ -1,5 +1,24 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=MehdiCherkane;Software+Engineering+Student;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+PostgreSQL" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Animated red data stream banner">
+  <defs>
+  <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#8c1010"/><stop offset="0.3" stop-color="#ff2a2a"/><stop offset="0.5" stop-color="#ff9a9a"/><stop offset="0.7" stop-color="#ff2a2a"/><stop offset="1" stop-color="#8c1010"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1200 0" dur="9s" repeatCount="indefinite"/></linearGradient>
+  <linearGradient id="flowDim" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#4a0808"/><stop offset="0.3" stop-color="#b01616"/><stop offset="0.5" stop-color="#ff4a4a"/><stop offset="0.7" stop-color="#b01616"/><stop offset="1" stop-color="#4a0808"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1200 0" dur="11s" repeatCount="indefinite"/></linearGradient>
+  <linearGradient id="flowHot" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#ff4a4a"/><stop offset="0.3" stop-color="#ff9a9a"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="0.7" stop-color="#ff9a9a"/><stop offset="1" stop-color="#ff4a4a"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1200 0" dur="7s" repeatCount="indefinite"/></linearGradient>
+  <radialGradient id="bgglow" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#4a0808" stop-opacity="0.8"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+  <radialGradient id="vg" cx="50%" cy="50%" r="75%"><stop offset="0.6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></radialGradient>
+  <linearGradient id="streak" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#ff2a2a" stop-opacity="0"/><stop offset="0.5" stop-color="#ff7a7a" stop-opacity="1"/><stop offset="1" stop-color="#ff2a2a" stop-opacity="0"/></linearGradient>
+  <filter id="glowBack" x="-5%" y="-40%" width="110%" height="180%"><feGaussianBlur stdDeviation="4"/></filter>
+  <filter id="glow" x="-5%" y="-40%" width="110%" height="180%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="glowHot" x="-5%" y="-40%" width="110%" height="180%"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.45"/></pattern>
+  <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M18 0H0V18" fill="none" stroke="#ff3030" stroke-width="0.5" opacity="0.5"/></pattern>
+  <radialGradient id="gridfade" cx="0%" cy="0%" r="100%"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#000"/></radialGradient>
+  <mask id="gridmask"><rect width="380" height="150" fill="url(#gridfade)"/></mask>
+  </defs>
+  <rect width="1200" height="300" fill="#000"/>
+  <ellipse cx="600.0" cy="148" rx="560" ry="120" fill="url(#bgglow)"/>
+  <rect width="380" height="150" fill="url(#grid)" opacity="0.18" mask="url(#gridmask)"/>
+  </svg>
 </p>
 
 Hi there 👋 I'm Mehdi, a software engineering student building campus-focused products and tinkering with distributed systems.
