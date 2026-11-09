@@ -17,6 +17,8 @@ I'm Mehdi, a software engineering student and builder. I work across desktop app
 | [NEUON](https://github.com/MehdiCherkane/NEUON-Linux-AI-Assistant-With-JAVA) | Linux AI assistant with an agent loop, tool use (shell, code, file, email, memory), voice I/O, hardware monitor, and a cyberpunk UI. | Java 21, JavaFX, Groq |
 | [dsa-visualizer](https://github.com/MehdiCherkane/dsa-visualizer) | Fully offline French visualizer for data structures in C — stacks, queues, linked lists, binary trees — with step-by-step C execution and animations. | C, TypeScript, HTML/CSS |
 | SkillSwap Campus | Campus skill-exchange platform: publish offers, reserve slots with credits, meet, confirm — two confirmations settle exactly one transfer in an append-only ledger. (private) | Java 21, Spring Boot, PostgreSQL, React |
+| Ordres de Mission | Mission-order management with a two-level validation workflow (manager then director): request creation, vehicle assignment, admin dashboard, async email notifications. (private) | Java 26, Spring Boot 4.1, Thymeleaf, Spring Security, JPA, MySQL/MariaDB |
+| Stage ONEP | Internship application management: online submission, candidate tracking, admin validation, statistics, and email notifications. (private) | Java 26, Spring Boot 4.1, Thymeleaf, Spring Security, JPA, Bean Validation, MySQL/MariaDB, JavaMail |
 
 ## GitHub stats
 
