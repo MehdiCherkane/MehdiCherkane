@@ -20,11 +20,10 @@ I'm Mehdi, a software engineering student and builder. I work across desktop app
 | Ordres de Mission | Mission-order management with a two-level validation workflow (manager then director): request creation, vehicle assignment, admin dashboard, async email notifications. (private) | Java 26, Spring Boot 4.1, Thymeleaf, Spring Security, JPA, MySQL/MariaDB |
 | Stage ONEP | Internship application management: online submission, candidate tracking, admin validation, statistics, and email notifications. (private) | Java 26, Spring Boot 4.1, Thymeleaf, Spring Security, JPA, Bean Validation, MySQL/MariaDB, JavaMail |
 
-## GitHub stats
+## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehdiCherkane&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiCherkane&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://ghchart.rshah.org/ff2a2a/MehdiCherkane" alt="GitHub contribution chart" />
 </p>
 
 ## Connect
